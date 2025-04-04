@@ -24,7 +24,7 @@ function Calculadora() {
                 <button onClick={() => Adicionar(7)}>7</button>
                 <button onClick={() => Adicionar(8)}>8</button>
                 <button onClick={() => Adicionar(9)}>9</button>
-                <button onClick={() => Adicionar(0)}>0</button>
+                <button onClick={() => Adicionar(0)}>0</button>f
 
                 
             </div>
